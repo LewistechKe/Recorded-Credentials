@@ -1,3 +1,7 @@
+This extension will listen for form submissions on web pages and record the username, email (if available), password, and URL. You can then view the recorded credentials by clicking on the extension icon and selecting "Recorded Credentials".
+
+Remember, this is a basic example and may need adjustments for security and usability. Be sure to handle sensitive data securely, as storing passwords in plaintext locally can pose security risks. Also, keep in mind that using such an extension might violate terms of service of certain websites, particularly if they prohibit the storage or sharing of login credentials.
+
 To distribute your extension, you don't necessarily "host" it in the same way you would a website. Instead, you package it and distribute it through the appropriate channels depending on the browser you're targeting.
 
 Here's how you can distribute your extension for different browsers:
